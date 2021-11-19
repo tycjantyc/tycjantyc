@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**tycjantyc/tycjantyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Jan Tyc
+Jestem studentem 1 roku **Informatyki i Systemów Inteligentnych** oraz 2 roku *Inżynierii Biomedycznej*.
+## Moje zainteresowania to:
+* Sieci neuronowe
+* Przetwarzanie obrazów
+* Sztuczne narządy
+* Szachy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Znane języki programwoania:
+1. Python
+2. C
+
+Razem z zespołem CODEBLASTERS pracujemy nad grą indie!
+
+
