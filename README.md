@@ -14,4 +14,7 @@ Jestem studentem 1 roku **Informatyki i Systemów Inteligentnych** oraz 2 roku *
 
 Razem z zespołem CODEBLASTERS pracujemy nad grą indie!
 
+Link do mojej strony internetowej!
+[Link](tycjantyc.github.io)
+
 
