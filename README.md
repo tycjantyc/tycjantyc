@@ -17,4 +17,7 @@ Razem z zespołem CODEBLASTERS pracujemy nad grą indie!
 Link do mojej strony internetowej!
 [Link](https://tycjantyc.github.io)
 
+Link do forka ciekawej pracy!!!
+[Ciekawa praca](https://github.com/tycjantyc/scruples.git)
+
 
