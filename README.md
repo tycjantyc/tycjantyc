@@ -1,23 +1,22 @@
 
 
 # Jan Tyc
-Jestem studentem 1 roku **Informatyki i Systemów Inteligentnych** oraz 2 roku *Inżynierii Biomedycznej*.
+Jestem studentem 2 roku **Informatyki i Systemów Inteligentnych** oraz 3 roku *Inżynierii Biomedycznej*.
 ## Moje zainteresowania to:
-* Sieci neuronowe
+* Computer Vision i ML
 * Przetwarzanie obrazów
-* Sztuczne narządy
+* Wspiaczka (bouldering)
 * Szachy
 
 ## Znane języki programwoania:
-1. Python
-2. C
+1. Python (numpy, pandas, matplotlib)
+2. C, C++
 
-Razem z zespołem CODEBLASTERS pracujemy nad grą indie!
+## Najważniejsze obecne projekty:
+
+1. Projekt "Ogórki"
 
 Link do mojej strony internetowej!
 [Link](https://tycjantyc.github.io)
-
-Link do forka ciekawej pracy!!!
-[Ciekawa praca](https://github.com/tycjantyc/scruples.git)
 
 
